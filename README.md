@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Yuvansankar R
 
-🎓 A Computer Science undergraduate from **Madras Institute of Technology, Anna University** with a passion for game development, AI/ML, and full-stack web projects. I love building innovative tools and immersive experiences using modern technologies.
+🎓 A Computer Science undergraduate from **Madras Institute of Technology, Anna University** with a passion for AI/ML/DL, Game Development, and full-stack web projects. I love building innovative tools and immersive experiences using modern technologies.
 
 ## 🚀 About Me
-- 🔭 I'm currently building **AR applications** and **mobile racing games** using Unity and ML tools.
-- 🌱 Exploring advanced topics in **Machine Learning**, **Computer Vision**, and **AR/VR development**.
-- 💡 Active participant in national-level **hackathons** including **ISRO Hackathon** and **InneRve 9.0**.
+- 🚀 I’m currently working on **innovative technologies** in the fields of:
+
+- 🎮 **Game Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Deep Learning & Computer Vision**
+-  I love experimenting with ideas that blend **real-world interactivity with intelligent systems**, building tools and apps that solve real problems using advanced computing concepts.
+- 🌱 Exploring advanced topics in **Machine Learning**,**Deep Learning**, **Computer Vision**,**Game Development** and **AR/VR development**.
+- 💡I'm actively developing an innovative solution as part of **Smart India Hackathon 2025**.  
 - 📫 Reach me at: yuvanramamoorthi@gmail.com
 
 ---
@@ -37,41 +42,9 @@
 
 ---
 
-## 💻 Projects
 
-### 🔹 AR Copy-Paste Tool
-> Tech: Unity, Python, OpenCV, AR Foundation  
-> Features:  
-> - Real-time 3D object detection with YOLOv8  
-> - OCR text extraction via Tesseract  
-> - Seamless AR paste across environments  
 
-### 🔹 GenAI Healthcare Assistant
-> Tech: React, Node.js, MongoDB, Gemini API  
-> Features:  
-> - Intelligent health term extraction  
-> - Suggests potential diseases  
-> - Locates nearby clinics based on reports  
 
-### 🔹 City Car Racing Game (Mobile)
-> Tech: Unity, C#, Android  
-> Features:  
-> - Mobile-optimized UI  
-> - Realistic car physics  
-> - AI-driven traffic simulation  
-
----
-
-## 📜 Certifications & Achievements
-- ✅ **100+ problems** solved on LeetCode  
-- 🏅 **Intermediate SQL** - HackerRank  
-- 🏆 **Best Volunteer Award** - NSS  
-- 🎓 **Workshops** by IIT Madras on ML  
-- 🛠️ **Unity Game Dev** & **ML A-Z** - Udemy  
-- 💡 **Special Mention** - PrayACthon  
-- 👨‍💻 Hackathon Participant: ISRO Hackathon, InneRve 9.0  
-
----
 
 ## 📈 GitHub Stats
 
@@ -85,5 +58,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YUVAN0907)
