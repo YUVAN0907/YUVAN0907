@@ -55,7 +55,6 @@
 ---
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/2023503060?ext=activity).
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-100%2B_solved-orange?style=flat-square&logo=leetcode)
 
 
 ## 📫 Let's Connect
