@@ -81,7 +81,7 @@
 
 ---
 ## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yuvansankar R)
+![LeetCode Stats](https://leetcard.jacoblin.cool/2023503060)
 
 ## 📫 Let's Connect
 
