@@ -54,7 +54,7 @@
 
 ---
 ## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/2023503060?ext=activity).
+(![LeetCode Stats](https://leetcard.jacoblin.cool/2023503060?theme=dark&font=Dokdo&ext=heatmap)).
 
 
 ## 📫 Let's Connect
