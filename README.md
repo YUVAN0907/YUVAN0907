@@ -80,6 +80,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUVAN0907&layout=compact&theme=radical)
 
 ---
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yuvansankar R)
 
 ## 📫 Let's Connect
 
