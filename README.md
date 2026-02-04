@@ -2,15 +2,7 @@
 
 🎓 A Computer Science undergraduate from **Madras Institute of Technology, Anna University** with a passion for AI/ML/DL, Game Development, and full-stack web projects. I love building innovative tools and immersive experiences using modern technologies.
 
-## 🚀 About Me
-- 🚀 I’m currently working on **innovative technologies** in the fields of:
 
-- 🎮 **Game Development**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **Deep Learning & Computer Vision**
--  I love experimenting with ideas that blend **real-world interactivity with intelligent systems**, building tools and apps that solve real problems using advanced computing concepts.
-- 🌱 Exploring advanced topics in **Machine Learning**,**Deep Learning**, **Computer Vision**,**Game Development** and **AR/VR development**.
-- 💡I'm actively developing an innovative solution as part of **Smart India Hackathon 2025**.  
 - 📫 Reach me at: yuvanramamoorthi@gmail.com
 
 ---
