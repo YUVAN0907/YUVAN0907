@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuvansankar R
 
-🎓 A Computer Science undergraduate from **Madras Institute of Technology, Anna University** with a passion for AI/ML/DL, Game Development, and full-stack web projects. I love building innovative tools and immersive experiences using modern technologies.
+🎓 A Computer Science undergraduate from **Madras Institute of Technology, Anna University** with a passion for AI/ML/DL, Robotics, Game Development, and full-stack web projects. I love building innovative tools and immersive experiences using modern technologies.
 
 
 - 📫 Reach me at: yuvanramamoorthi@gmail.com
